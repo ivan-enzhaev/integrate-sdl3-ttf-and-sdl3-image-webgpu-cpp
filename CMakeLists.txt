@@ -1,4 +1,4 @@
-set(CMAKE_BUILD_TYPE "Release")
+set(CMAKE_BUILD_TYPE "Debug")
 
 cmake_minimum_required(VERSION 3.21)
 project(integrate-sdl3-ttf-and-sdl3-image-webgpu-cpp)

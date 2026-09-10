@@ -3,7 +3,7 @@
 ### Android Screenshot
 
 <p align="center">
-    
+    <img width="765" height="325" alt="image" src="https://github.com/user-attachments/assets/01f390b7-4f75-42ba-a0e3-b0df52aeb76e" />
 </p>
 
 This screenshot was created using [scrcpy](https://github.com/Genymobile/scrcpy):
@@ -17,7 +17,7 @@ scrcpy --max-fps=60 --video-bit-rate=16M --video-codec=h265
 Scan the QR code below to run the app directly on your mobile device:
 
 <p align="center">
-    
+    <img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/626b1619-d4b0-4183-b303-1753f59380fd" />
 </p>
 
 ### Guide

@@ -22,7 +22,7 @@ Scan the QR code below to run the app directly on your mobile device:
 
 ### Guide
 
-* **Tutorial:** [Rendering Multiple 2D Objects with WebGPU, SDL3, and cglm](https://ivan-enzhaev.github.io/tutorials/sdl3-webgpu/3-in-1/integrate-sdl3-ttf-and-sdl3-image-webgpu)
+* **Tutorial:** [Integrating SDL3_ttf and SDL3_image (WebGPU)](https://ivan-enzhaev.github.io/tutorials/sdl3-webgpu/3-in-1/integrate-sdl3-ttf-and-sdl3-image-webgpu)
 
 ### Assets
 
